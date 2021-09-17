@@ -1,0 +1,8 @@
+.card img{
+  height: 10.625rem;
+  max-width: 8.25rem;
+  padding-top:1em;
+}
+.header-title{
+  font-family: nyt-cheltenham,georgia,'times new roman',times,serif;
+}
